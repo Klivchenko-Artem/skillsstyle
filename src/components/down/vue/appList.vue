@@ -43,7 +43,6 @@ export default {
     justify-content: space-between;
     align-items: center;
     cursor: pointer;
-    background-color: #f7f7f7;
     padding: 10px;
 }
 
