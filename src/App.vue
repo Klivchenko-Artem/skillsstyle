@@ -64,12 +64,13 @@ export default {
 
 <style>
 .app {
-  max-width: 800px;
+  max-width: 100%;
+  min-height: 100vh;
   margin: 0 auto;
   padding: 20px;
   background-color: white;
   color: black;
-  transition: background-color 0.3s ease, color 0.3s ease;
+  transition: background-color 1s ease, color 1s ease;
 }
 
 .dark-mode {
